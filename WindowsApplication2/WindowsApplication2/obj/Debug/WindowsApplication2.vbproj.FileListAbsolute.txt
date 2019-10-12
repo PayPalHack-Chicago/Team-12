@@ -1,0 +1,10 @@
+C:\Visual Basic Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Visual Basic Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Visual Basic Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Visual Basic Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Visual Basic Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Visual Basic Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Visual Basic Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Visual Basic Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Visual Basic Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Visual Basic Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
